@@ -30,3 +30,26 @@ The spreadsheet is not efficient because:
 * No Standard Format
 * Less visible and difficult to collaborate with others
 
+#### MLflow
+
+It is an open-source platform to track the machine learning lifecycle. It is basically a Python package with four main modules:
+* Tracking
+* Models
+* Model Registry
+* Projects
+
+#### Tracking Experiment with MLflow
+
+The ML flow Tracking module allows us to organize our experiments into runs, and to keep track of:
+* Parameters
+* Metrics
+* Metadata
+* Artifacts
+* Models
+
+MLflow also keeps extra information about the model and runs automatically:
+* Source Code
+* Version control with git commit
+* Tracking of start and end time
+* Author
+
