@@ -23,3 +23,10 @@ In general, it has 3 main reasons:
 * Organization
 * Optimization
 
+#### Experiment tracking with Spreadsheet.
+
+The spreadsheet is not efficient because:
+* Error Prone
+* No Standard Format
+* Less visible and difficult to collaborate with others
+
