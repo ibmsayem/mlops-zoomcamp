@@ -6,11 +6,20 @@
 
 #### What is experiment tracking?
 
-Experiment tracking is the process of keeping track of all the relevant information from and ML experiment, which includes:
+Experiment tracking is the process of keeping track of all the relevant information from an ML experiment, which includes:
 * Source Code
 * Environment
 * Data
 * Model
 * Metrics
 * Model Hyperparameters
-* and many more.....
+* and many more..
+* 
+
+#### Why is experiment tracking important?
+
+In general, it has 3 main reasons:
+* Reproducibility
+* Organization
+* Optimization
+
