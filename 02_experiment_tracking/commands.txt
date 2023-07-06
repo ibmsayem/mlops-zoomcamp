@@ -1,1 +1,4 @@
 
+#### Commands to run mlops ui for experiment tracking
+
+mlflow ui --backend-store-uri sqlite:///mlflow.db
