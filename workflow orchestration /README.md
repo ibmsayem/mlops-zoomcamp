@@ -12,3 +12,5 @@
   
 To solve all of this, prefect comes in, which allows to orchestrate and observe Python workflows at a high-level scale, like parallelization among multiple machines
 synchronization etc.
+
+- Prefect is a flexible, open-source Python framework to turn standard pipelines into fault-tolerant dataflows.
