@@ -7,3 +7,7 @@
 * Could you send me an email if it works?
 * could you visualize the dependencies?
 * could you add caching?
+* could you add some collaborators to run ad hoc?
+* 
+To solve all of this, prefect comes in, which allows to orchestrate and observe Python workflows at a high-level scale, like parallelization among multiple machines
+synchronization etc.
