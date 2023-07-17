@@ -1,4 +1,4 @@
-#### If you give an MLOps engineer a job...
+## If you give an MLOps engineer a job...
 
 * Could you just setup this pipeline to train this model?
 * could you setup logging?
@@ -20,3 +20,7 @@ synchronization etc.
 - Orchestration API - It is a REST API the server uses to work with workflow metadata.
 - Database - The workflow metadata is used by the database, which is a SQL-like database.
 - UI - It is used to visualize the workflows.
+
+### Basic terminology of prefect
+- Task - A discrete unit of work in a prefect workflow, It is more like a regular Python function.
+- Flow - They serve as a container for the workflow logic. used as a parent function to call tasks.  flows can also call other flows namely subflows.
