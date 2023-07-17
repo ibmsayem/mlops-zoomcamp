@@ -14,3 +14,9 @@ To solve all of this, prefect comes in, which allows to orchestrate and observe 
 synchronization etc.
 
 - Prefect is a flexible, open-source Python framework to turn standard pipelines into fault-tolerant dataflows.
+
+### Self-Hosting a Prefect Server
+
+- Orchestration API - It is a REST API the server uses to work with workflow metadata.
+- Database - The workflow metadata is used by the database, which is a SQL-like database.
+- UI - It is used to visualize the workflows.
